@@ -91,15 +91,7 @@ object-position: center;
  margin: auto;
  object-position: center;
 }
-.white{
-  width: 150px;
-  height: 50px;
-  background: white;
-    text-align: center;
-  font-size:30px;
-  font-family: 'Abril Fatface', cursive;
- color: #cfe3e3;
-}
+
 section{
 
 display: flex;
