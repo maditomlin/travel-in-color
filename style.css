@@ -16,7 +16,7 @@ h2{
   color: #cfe3e3	;
 }
 .pink{
-  width: 206px;
+  width: 208px;
   height: 50px;
   background: #ffe6ff;
     text-align: center;
@@ -24,7 +24,7 @@ h2{
   font-family: 'Abril Fatface', cursive;
  color: white;
   margin: auto;
-
+    object-position: center;
 }
 .r{
  width: 204px;
